@@ -138,7 +138,10 @@ gitsync.sh
 gitsync.ps1
 publish.sh
 publish.ps1
+gitmerge*.ps1
+gitmerge*.sh
 
 usage_examples/*.csv
 
 az_tests/
+
