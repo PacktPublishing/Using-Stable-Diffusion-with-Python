@@ -54,7 +54,7 @@ With the following software and hardware list you can run all code files present
   
 * Data-Centric Machine Learning with Python  [[Packt]](https://www.packtpub.com/product/data-centric-machine-learning-with-python/9781804618127) [[Amazon]](https://www.amazon.com/Data-Centric-Machine-Learning-Python-high-quality/dp/1804618128/ref=tmm_pap_swatch_0?_encoding=UTF8&sr=8-1)
   
-## Get to Know the Authors
+## Get to Know the Author
 **Andrew Zhu (Shudong Zhu)** is an experienced Microsoft Applied Data Scientist with over 15 years of experience in the tech field. He is a highly regarded writer known for his ability to explain complex concepts in machine learning and AI in an engaging and informative manner. Andrew frequently contributes articles to Toward Data Science and other prominent tech publishers. He has authored the book Microsoft Workflow Foundation 4.0 Cookbook, which has received a 4.5-star review. Andrew has a strong command of programming languages such as C/C++, Java, C#, and JavaScript, with his current focus primarily on Python. With a passion for AI and automation, Andrew resides in WA, US, with his family, which includes two boys.
 
 
