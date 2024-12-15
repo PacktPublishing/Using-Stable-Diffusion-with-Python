@@ -93,5 +93,5 @@ wcwidth==0.2.13
 wheel==0.43.0
 widgetsnbextension==4.0.10
 xformers==0.0.26.post1
-zipp==3.18.1
+zipp==3.19.1
 peft==0.6.2
